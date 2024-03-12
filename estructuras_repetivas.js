@@ -42,3 +42,4 @@ document.write("la cantidad de gatos es: "+ConteoGatos+"<br>")
 document.write("Suma edad de los perros es: "+EdadPerros+"<br>")
 document.write("Suma edad de los gatos es: "+EdadGatos+"<br>")
    
+
